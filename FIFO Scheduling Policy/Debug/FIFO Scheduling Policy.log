@@ -1,0 +1,3 @@
+﻿  FIFO Scheduling Policy.cpp
+C:\Users\HP\Desktop\FIFO Scheduling Policy\FIFO Scheduling Policy\FIFO Scheduling Policy.cpp(60,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  FIFO Scheduling Policy.vcxproj -> C:\Users\HP\Desktop\FIFO Scheduling Policy\Debug\FIFO Scheduling Policy.exe
